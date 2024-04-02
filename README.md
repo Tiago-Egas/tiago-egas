@@ -19,8 +19,11 @@ I'm Tiago Egas, a 33 years old web developer jr. from Brazil.
 ## Stats
 
 ![Tiago Egas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Egas&theme=catppuccin_mocha&show_icons=true)
+<<<<<<< HEAD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Egas&theme=catppuccin_mocha&show_icons=true)
+=======
+>>>>>>> a1d87a431e680be262ca5fbe8e12ec424f239718
 
 ## Contact
 
