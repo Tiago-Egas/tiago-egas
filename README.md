@@ -12,11 +12,13 @@ I'm Tiago Egas, a 33 years old web developer jr. from Brazil.
 - 👁️ HTML, CSS
 - 💽 SQL, PostgreSQL
 
-Repos - https://github.com/Tiago-Egas?tab=repositories
+![Tiago Egas's GitHub repos]
+
+(https://github-readme-repos.vercel.app/api?username=Tiago-Egas&theme=catppuccin_mocha&show_icons=true)
 
 ## Stats
 
-https://github-readme-stats.vercel.app/api?username=Tiago-Egas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_mocha
+![Tiago Egas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Egas&theme=catppuccin_mocha&show_icons=true)
 
 ## Contact
 
