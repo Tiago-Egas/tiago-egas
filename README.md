@@ -2,15 +2,12 @@
 
 I'm Tiago Egas, a 33 years old web developer jr. from Brazil.
 
-- 🧪 Tester at [Nummus Cashback](https://nummus.com.br/)
-- 👨 Listen to their podcast: [CashTalks](https://open.spotify.com/show/0snuBClslZf4bcF78jpSmw)
-
 ## Skills
 
-- 💻 AutoHotKey, Lua, Python, PHP, JS, Java
+- 💻 AutoHotKey, Lua, Python, Java, PHP, Javascript, C#
 - ⚙️ Django, Typescript, Cucumber, Guerkin
 - 👁️ HTML, CSS
-- 💽 SQL, PostgreSQL
+- 💽 MySQL, PostgreSQL
 
 ## Stats
 
@@ -22,6 +19,6 @@ I'm Tiago Egas, a 33 years old web developer jr. from Brazil.
 
 ## Contact
 
-- Dev Profile - [Github.com/Tiago-Egas](https://github.com/Tiago-Egas)
-- Professional - [LinkedIn](https://www.linkedin.com/in/tiagoegas/)
-- Other Dev profile - [Gitlab](https://gitlab.com/Tiago-Egas)
+- Github - [Github.com/Tiago-Egas](https://github.com/Tiago-Egas)
+- LinkedIn - [LinkedIn](https://www.linkedin.com/in/tiagoegas/)
+- Gitlab - [Gitlab](https://gitlab.com/Tiago-Egas)
