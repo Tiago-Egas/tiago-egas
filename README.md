@@ -1,6 +1,6 @@
-## Hey! 👋
+## Olá! 👋
 
-I'm Tiago Egas, a 33 years old web developer jr. from Brazil.
+Sou um profissional de TI com mais de 5 anos de experiência em suporte e qualidade de software. Desde criança, sou apaixonado por tecnologia e sempre fui curioso para aprender como as coisas funcionam. Comecei minha carreira como técnico de manutenção de computadores, onde aprendi a identificar e e resolver problemas de hardwares. Posteriormente, trabalhei como analista de suporte e help desk, onde aprendi a atender e resolver problemas dos usuários. Atualmente, estou me especializando em desenvolvimento de sistemas, onde estou aprendendo a projetar, desenvolver e testar software.
 
 ## Skills
 
