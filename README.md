@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Sou um profissional de TI com mais de 5 anos de experiência em suporte e qualidade de software. Desde criança, sou apaixonado por tecnologia e sempre fui curioso para aprender como as coisas funcionam. Comecei minha carreira como técnico de manutenção de computadores, onde aprendi a identificar e e resolver problemas de hardwares. Posteriormente, trabalhei como analista de suporte e help desk, onde aprendi a atender e resolver problemas dos usuários. Atualmente, estou me especializando em desenvolvimento de sistemas, onde estou aprendendo a projetar, desenvolver e testar software.
+Profissional de TI com mais de 5 anos de experiência em suporte técnico e garantia da qualidade de software, com sólida base em resolução de problemas e atendimento ao usuário. Desde o início da minha trajetória, demonstro paixão por tecnologia e busca constante por aprendizado. Iniciei minha carreira como técnico de manutenção de computadores, adquirindo expertise em diagnóstico e solução de problemas de hardware. Em seguida, atuei como analista de suporte e help desk, aprimorando minhas habilidades em atendimento ao cliente e resolução de incidentes. Atualmente, estou em processo de especialização em desenvolvimento de sistemas, com foco em projetar, desenvolver e testar software de alta qualidade. Busco oportunidades desafiadoras onde possa aplicar meus conhecimentos e contribuir para o sucesso de projetos inovadores.
 
 ## Skills
 
