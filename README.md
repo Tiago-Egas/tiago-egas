@@ -1,8 +1,17 @@
 ## Hello! 👋
 
-PT-BR: Profissional de TI com mais de 5 anos de experiência em suporte técnico e garantia da qualidade de software, com sólida base em resolução de problemas e atendimento ao usuário. Desde o início da minha trajetória, demonstro paixão por tecnologia e busca constante por aprendizado. Iniciei minha carreira como técnico de manutenção de computadores, adquirindo expertise em diagnóstico e solução de problemas de hardware. Em seguida, atuei como analista de suporte e help desk, aprimorando minhas habilidades em atendimento ao cliente e resolução de incidentes. Atualmente, estou em processo de especialização em desenvolvimento de sistemas, com foco em projetar, desenvolver e testar software de alta qualidade. Busco oportunidades desafiadoras onde possa aplicar meus conhecimentos e contribuir para o sucesso de projetos inovadores.
+PT-BR: Profissional de TI com mais de 10 anos de experiência em Suporte Técnico, com sólida base em resolução de problemas e atendimento ao usuário, e Testes de Softwares.
 
-English: IT professional with over 5 years of experience in technical support and software quality assurance, with a solid foundation in troubleshooting and customer service. Since the beginning of my career, I have demonstrated a passion for technology and a constant search for learning. I began my career as a computer maintenance technician, acquiring expertise in diagnosing and solving hardware problems. I then worked as a support and help desk analyst, honing my skills in customer service and incident resolution. I am currently in the process of specializing in systems development, focusing on designing, developing and testing high-quality software. Look for opportunities where I can apply my knowledge and contribute to the success of innovative projects.
+Desde o início da minha trajetória, demonstro paixão por tecnologia e busca constante por aprendizado. Iniciei minha carreira como técnico de manutenção de computadores, adquirindo expertise em diagnóstico e solução de problemas de hardware. Em seguida, atuei como analista de suporte e help desk, aprimorando minhas habilidades em atendimento ao cliente e resolução de incidentes.
+
+Atualmente, estou em processo de especialização em desenvolvimento de sistemas, com foco em projetar, desenvolver e testar software de alta qualidade. Busco oportunidades desafiadoras onde possa aplicar meus conhecimentos e contribuir para o sucesso de projetos inovadores.
+
+---
+English: IT professional with over 10 years of experience in Technical Support, with a solid foundation in problem-solving and user service, and Software Testing.
+
+Since the beginning of my career, I have demonstrated a passion for technology and a constant search for learning. I began my career as a computer maintenance technician, acquiring expertise in diagnosing and solving hardware problems. I then worked as a support and help desk analyst, honing my skills in customer service and incident resolution.
+
+I am currently in the process of specializing in systems development, with a focus on designing, developing and testing high-quality software. I seek challenging opportunities where I can apply my knowledge and contribute to the success of innovative projects.
 
 ## Skills
 
