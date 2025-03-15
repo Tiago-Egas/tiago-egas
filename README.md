@@ -23,11 +23,13 @@ I am currently in the process of specializing in systems development, with a foc
 
 ## Stats
 
-![Tiago Egas's GitHub repos](https://github-readme-streak-stats.herokuapp.com/?user=Tiago-Egas&theme=catppuccin_mocha&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tiago-Egas&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
 
-![Tiago Egas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Egas&theme=catppuccin_mocha&show_icons=true)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiago-egas&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Egas&theme=catppuccin_mocha&show_icons=true)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiago-egas&theme=tokyonight) ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiago-egas&theme=tokyonight)
+
+![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiago-egas&theme=tokyonight&utcOffset=8) ![Commit langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiago-egas&theme=tokyonight)
 
 ## Contact
 
