@@ -23,7 +23,7 @@ I am currently in the process of specializing in systems development, with a foc
 
 ## Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tiago-Egas&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=tiago-egas&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiago-egas&theme=tokyonight)
 
