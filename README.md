@@ -80,18 +80,14 @@ GitFolio:end -->
   
 ## Hello! 👋
 
-PT-BR: Profissional de TI com mais de 10 anos de experiência em Suporte Técnico, com sólida base em resolução de problemas e atendimento ao usuário, e Testes de Softwares.
+PT-BR: Com mais de 10 anos de experiência em Suporte de TI e Help Desk, estou migrando minha carreira para Desenvolvimento de Software. Minha formação me proporcionou uma capacidade única de diagnosticar problemas complexos e um profundo entendimento das necessidades do usuário final — habilidades que agora aplico na construção de soluções de software robustas.
 
-Desde o início da minha trajetória, demonstro paixão por tecnologia e busca constante por aprendizado. Iniciei minha carreira como técnico de manutenção de computadores, adquirindo expertise em diagnóstico e solução de problemas de hardware. Em seguida, atuei como analista de suporte e help desk, aprimorando minhas habilidades em atendimento ao cliente e resolução de incidentes.
-
-Atualmente, estou em processo de especialização em desenvolvimento de sistemas, com foco em projetar, desenvolver e testar software de alta qualidade. Busco oportunidades desafiadoras onde possa aplicar meus conhecimentos e contribuir para o sucesso de projetos inovadores.
+Minha experiência inclui automação de processos e scripts, o que aprimorou minha aptidão para otimização de tarefas. Ao finalizar minha graduação em Análise e Desenvolvimento de Sistemas, busco ativamente uma oportunidade de contribuir para a construção de produtos tecnológicos inovadores e eficazes, combinando minha formação técnica com minhas novas habilidades de programação.
 
 ---
-English: IT professional with over 10 years of experience in Technical Support, with a solid foundation in problem-solving and user service, and Software Testing.
+English: With over 10 years of experience in IT Support and Help Desk, I am now transitioning my career to Software Development. My background has provided me with a unique ability to diagnose complex problems and a deep understanding of end-user needs—skills I now apply to building robust software solutions.
 
-Since the beginning of my career, I have demonstrated a passion for technology and a constant search for learning. I began my career as a computer maintenance technician, acquiring expertise in diagnosing and solving hardware problems. I then worked as a support and help desk analyst, honing my skills in customer service and incident resolution.
-
-I am currently in the process of specializing in systems development, with a focus on designing, developing and testing high-quality software. I seek challenging opportunities where I can apply my knowledge and contribute to the success of innovative projects.
+My experience includes process automation and scripting, which has sharpened my aptitude for task optimization. As I finalize my degree in Systems Analysis and Development, I am actively seeking an opportunity to contribute to building innovative and effective technology products by combining my technical background with my new programming skills.
 
 ## Skills
 
