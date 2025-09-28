@@ -1,3 +1,83 @@
+
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/Tiago-Egas"> 🔗
+  https://gitfollio.vercel.app/Tiago-Egas
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Tiago Egas",
+  "email": "tiagoegas@outlook.com",
+  "tagline": "Dev Jr.",
+  "avatar_url": "https://avatars.githubusercontent.com/u/25328280?v=4",
+  "website": "tiago-egas.ddns.net",
+  "githubUser": "Tiago-Egas",
+  "linkedinUser": "https://www.linkedin/in/tiagoegas",
+  "about": "Com mais de 10 anos em Suporte de TI, estou em transição para a carreira de Desenvolvedor de Software. Minha experiência em diagnosticar problemas complexos e entender o usuário final é um diferencial que hoje aplico na criação de código. Com vivência em automação e scripting, estou finalizando a graduação em Análise e Desenvolvimento de Sistemas e busco uma oportunidade para construir produtos tecnológicos inovadores, unindo meu background à programação.",
+  "showStars": false,
+  "showFollowers": false,
+  "followers": 25,
+  "following": 44,
+  "themeId": "professional",
+  "tech": [
+  "Javascript",
+  "Node.js",
+  "Python",
+  "PHP",
+  "Linux"
+],
+  "projects": [
+  {
+    "id": 1061961008,
+    "repoName": "FinAPI-Ignite-Rocketseat",
+    "url": "https://github.com/Tiago-Egas/FinAPI-Ignite-Rocketseat",
+    "stars": 0,
+    "description": "FinAPI from Ignite course on Rocketseat",
+    "image": "",
+    "techs": [
+      "Node.js",
+      "TypeScript",
+      "API REST"
+    ],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 540233791,
+    "repoName": "Curso-PHP-Completo---COD3R",
+    "url": "https://github.com/Tiago-Egas/Curso-PHP-Completo---COD3R",
+    "stars": 0,
+    "description": "Curso PHP - COD3R",
+    "image": "",
+    "techs": [
+      "PHP",
+      "HTML5",
+      "CSS"
+    ],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 536471781,
+    "repoName": "nlw-esports-explorer",
+    "url": "https://github.com/Tiago-Egas/nlw-esports-explorer",
+    "stars": 1,
+    "description": "NLW eSports - Trilha Explorer",
+    "image": "",
+    "techs": [
+      "HTML5",
+      "CSS",
+      "Javascript",
+      "Docker"
+    ],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+  
 ## Hello! 👋
 
 PT-BR: Profissional de TI com mais de 10 anos de experiência em Suporte Técnico, com sólida base em resolução de problemas e atendimento ao usuário, e Testes de Softwares.
