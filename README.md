@@ -12,7 +12,7 @@ Acesse meu Gitfollio em:
   "avatar_url": "https://avatars.githubusercontent.com/u/25328280?v=4",
   "website": "tiago-egas.ddns.net",
   "githubUser": "Tiago-Egas",
-  "linkedinUser": "https://www.linkedin/in/tiagoegas",
+  "linkedinUser": "https://www.linkedin.com/in/tiagoegas",
   "about": "Com mais de 10 anos em Suporte de TI, estou em transição para a carreira de Desenvolvedor de Software. Minha experiência em diagnosticar problemas complexos e entender o usuário final é um diferencial que hoje aplico na criação de código. Com vivência em automação e scripting, estou finalizando a graduação em Análise e Desenvolvimento de Sistemas e busco uma oportunidade para construir produtos tecnológicos inovadores, unindo meu background à programação.",
   "showStars": "true",
   "showFollowers": "true",
